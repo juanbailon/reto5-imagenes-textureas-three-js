@@ -1,4 +1,4 @@
-# Video and images texture
+# Video and images texture project
 
 ## Dependencies:
         npm i
